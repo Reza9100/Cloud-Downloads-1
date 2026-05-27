@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8175",
+  "folder": "Movies__Adam-Foroosh.1080_20260527143049_31c03e",
+  "base_name": "Movies__Adam-Foroosh.1080_20260527143049_31c03e.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/tag/co-releases-v1-8175",
+  "files": [
+    {
+      "name": "Movies__Adam-Foroosh.1080_20260527143049_31c03e.mp4",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/download/co-releases-v1-8175/Movies__Adam-Foroosh.1080_20260527143049_31c03e.mp4",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-1/releases/assets/431164176",
+      "id": 431164176,
+      "size": 1145800289,
+      "download_count": 0
+    }
+  ]
+}

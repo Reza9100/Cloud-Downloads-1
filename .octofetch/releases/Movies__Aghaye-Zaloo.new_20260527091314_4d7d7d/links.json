@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5678",
+  "folder": "Movies__Aghaye-Zaloo.new_20260527091314_4d7d7d",
+  "base_name": "Movies__Aghaye-Zaloo.new_20260527091314_4d7d7d.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/tag/co-releases-v1-5678",
+  "files": [
+    {
+      "name": "Movies__Aghaye-Zaloo.new_20260527091314_4d7d7d.mp4",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/download/co-releases-v1-5678/Movies__Aghaye-Zaloo.new_20260527091314_4d7d7d.mp4",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-1/releases/assets/430961173",
+      "id": 430961173,
+      "size": 880124339,
+      "download_count": 0
+    }
+  ]
+}

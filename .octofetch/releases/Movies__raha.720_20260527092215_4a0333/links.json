@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3957",
+  "folder": "Movies__raha.720_20260527092215_4a0333",
+  "base_name": "Movies__raha.720_20260527092215_4a0333.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/tag/co-releases-v1-3957",
+  "files": [
+    {
+      "name": "Movies__raha.720_20260527092215_4a0333.mp4",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/download/co-releases-v1-3957/Movies__raha.720_20260527092215_4a0333.mp4",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-1/releases/assets/430967857",
+      "id": 430967857,
+      "size": 848639309,
+      "download_count": 0
+    }
+  ]
+}

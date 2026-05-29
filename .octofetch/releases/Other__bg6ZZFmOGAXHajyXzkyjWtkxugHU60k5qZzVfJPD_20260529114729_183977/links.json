@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1101",
+  "folder": "Other__bg6ZZFmOGAXHajyXzkyjWtkxugHU60k5qZzVfJPD_20260529114729_183977",
+  "base_name": "Other__bg6ZZFmOGAXHajyXzkyjWtkxugHU60k5qZzVfJPD_20260529114729_183977.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/tag/co-releases-v1-1101",
+  "files": [
+    {
+      "name": "Other__bg6ZZFmOGAXHajyXzkyjWtkxugHU60k5qZzVfJPD_20260529114729_183977.rar",
+      "url": "https://github.com/Reza9100/Cloud-Downloads-1/releases/download/co-releases-v1-1101/Other__bg6ZZFmOGAXHajyXzkyjWtkxugHU60k5qZzVfJPD_20260529114729_183977.rar",
+      "api_url": "https://api.github.com/repos/Reza9100/Cloud-Downloads-1/releases/assets/432985199",
+      "id": 432985199,
+      "size": 12993001,
+      "download_count": 0
+    }
+  ]
+}
